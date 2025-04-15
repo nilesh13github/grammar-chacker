@@ -1,11 +1,4 @@
-''' Text Keyword Match'''
-# --------------------------------
-# Date : 19-06-2020
-# Project : Text Keyword Match
-# Category : NLP/NLTK sentence Scoring
-# Company : weblineindia
-# Department : AI/ML
-# --------------------------------
+
 import re
 import nltk
 from nltk.corpus import stopwords
